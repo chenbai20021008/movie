@@ -6,7 +6,7 @@ import vue from '@vitejs/plugin-vue'
 //   api    —— 走 /api 反向代理到甲的 FastAPI（避免跨域，后端不用改 CORS）
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '')
-  const target = env.VITE_PROXY_TARGET || 'http://127.0.0.1:8000'
+  const target = env.VITE_PROXY_TARGET || 'http://127.0.0.1:8001'
 
   return {
     plugins: [vue()],

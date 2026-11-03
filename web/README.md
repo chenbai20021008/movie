@@ -77,7 +77,7 @@ cp .env.example .env.local
 
 ```ini
 VITE_DATA_SOURCE=api
-VITE_PROXY_TARGET=http://127.0.0.1:8000
+VITE_PROXY_TARGET=http://127.0.0.1:8001
 ```
 
 然后重启 `npm run dev`。请求走 Vite 的 `/api` 反向代理到甲的服务，**不需要甲改 CORS**。
