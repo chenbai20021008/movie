@@ -24,6 +24,7 @@ LSH 召回 → Spark 分布式矩阵分解 → 评分流式增量处理 → 二�
 - [11. 已知限制](#11-已知限制)
 - [12. 文档](#12-文档)
 - [13. 自检记录](#13-自检记录交付前实测)
+- [14. 服务化接口（app/）](#14-服务化接口app)
 
 ---
 
@@ -373,6 +374,10 @@ project/
 │   └── big_data/
 │       ├── Big_Data.py          旧评分矩阵分解的训练脚本（movielens_mf.pt 的出处）
 │       └── README.md            来历、与原脚本的差异、为什么只复用 embedding
+├── app/                        服务化接口（FastAPI，甲负责）
+│   ├── main.py                 路由：/、/health、/predict、/predict/batch、/evaluate 等
+│   ├── models.py               推理引擎：BPR + LightGBM 加载与预测
+│   └── schemas.py              Pydantic 请求/响应模型
 ├── models/                     模型权重（movielens_mf.pt 随项目提供）
 ├── results/                    Top-10、指标、专题报告
 ├── scripts/
@@ -445,6 +450,7 @@ LightGBM 与 PyTorch 的版本差异会带来千分位波动，属于正常范�
 | `docs/演示材料.pptx` | 8 页答辩幻灯片 |
 | `docs/个人贡献说明.md` | 承担工作与关键决策 |
 | `docs/答辩记录.md` | 预设答辩问答 Q1–Q10 |
+| `docs/服务化接口说明.md` | FastAPI 接口详细文档（启动方式、请求示例、性能实测） |
 
 重新生成文档：
 
@@ -452,6 +458,72 @@ LightGBM 与 PyTorch 的版本差异会带来千分位波动，属于正常范�
 python scripts/build_report_docx.py   # 需要 python-docx
 python scripts/build_slides.py        # 需要 python-pptx
 ```
+
+---
+
+## 14. 服务化接口（app/）
+
+> 本节由「甲 · 后端与推理服务」补充。把训练好的模型封装成 HTTP API，供前端（乙）、教师测试集（丙）调用。**不改动原有算法代码**。
+
+### 14.1 快速启动
+
+```bash
+pip install -r requirements.txt          # 已包含 fastapi / uvicorn
+uvicorn app.main:app --host 127.0.0.1 --port 8001
+```
+
+打开 http://127.0.0.1:8001/ 自动跳转到 Swagger 文档；也可直接访问 `/docs`。
+
+| 场景 | 耗时 |
+|---|---|
+| **首次启动** | ~37 秒（重算条目统计 + 训练 LightGBM） |
+| **二次及以后** | **~2 秒**（特征与模型已缓存到磁盘） |
+
+### 14.2 接口清单
+
+| 方法 | 路径 | 用途 |
+|---|---|---|
+| GET | `/` | 重定向到 `/docs` |
+| GET | `/health` | 健康检查、已加载模型、加载耗时 |
+| POST | `/predict` | 单用户 Top-K 推荐 |
+| POST | `/predict/batch` | 批量推荐（JSON） |
+| POST | `/predict/batch/csv` | 批量推荐（CSV 流式，适合教师测试集） |
+| POST | `/evaluate` | 对预测 CSV 计算 NDCG@10 / Recall@10 / MRR@10 |
+| GET | `/movies/{id}` | 查询电影名称与类型 |
+| GET | `/sample/users?n=5` | 随机返回有效用户 ID（前端调试用） |
+
+### 14.3 请求示例
+
+```bash
+# 单用户
+curl -X POST http://127.0.0.1:8001/predict \
+  -H "Content-Type: application/json" \
+  -d '{"userId": 42, "topK": 5}'
+
+# 批量（教师测试集常用）
+curl -X POST http://127.0.0.1:8001/predict/batch/csv \
+  -H "Content-Type: application/json" \
+  -d '{"userIds": [42, 100, 999], "topK": 10}'
+```
+
+输出格式 `userId,rank,movieId,score`，与 `scripts/evaluate.py` 约定一致。
+
+### 14.4 实测性能
+
+| 指标 | 值 |
+|---|---|
+| 单用户延迟 | 47 ms |
+| 批量 1000 用户 | 24.3 秒（平均 24.3 ms/user） |
+| NDCG@10（在线复现） | **0.88938** ✅ 与离线结果一致 |
+
+### 14.5 缓存位置
+
+| 内容 | 路径 |
+|---|---|
+| 条目统计特征 | `data/processed/item_stats_cache.npz` |
+| LightGBM 模型 | `C:\temp\movie_recsys_cache\ranker_cache.txt`（LightGBM C 库不支持非 ASCII 路径） |
+
+删除即可强制重新计算/训练。详细说明见 [`docs/服务化接口说明.md`](docs/服务化接口说明.md)。
 
 ---
 
