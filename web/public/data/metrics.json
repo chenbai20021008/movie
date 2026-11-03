@@ -1,0 +1,215 @@
+{
+ "generatedAt": "2026-11-02 21:44:27",
+ "protocol": {
+  "dataset": "MovieLens 32M",
+  "ratings": 32000204,
+  "users": 200948,
+  "movies": 84432,
+  "positive": "rating ≥ 4",
+  "split": "每位用户按时间戳 8:1:1",
+  "candidates": "测试正样本 + 100 个固定负样本（seed 20260907）",
+  "primary": "NDCG@10",
+  "target": "相对热门基线提升 ≥ 10%"
+ },
+ "models": [
+  {
+   "key": "popularity",
+   "name": "热门基线",
+   "short": "热门基线",
+   "task": "任务一",
+   "ndcg": 0.73634,
+   "recall": 0.72907,
+   "mrr": 0.76867,
+   "users": 191007,
+   "elapsed": 6.46,
+   "perUserMs": 0.0338,
+   "sampled": false,
+   "final": false,
+   "note": null
+  },
+  {
+   "key": "graph",
+   "name": "二部图 + 社区",
+   "short": "二部图社区",
+   "task": "任务五",
+   "ndcg": 0.7791,
+   "recall": null,
+   "mrr": null,
+   "users": 4762,
+   "elapsed": null,
+   "perUserMs": null,
+   "sampled": true,
+   "final": false,
+   "note": "20k 用户子图；PageRank × 社区匹配"
+  },
+  {
+   "key": "als",
+   "name": "Spark ALS",
+   "short": "Spark ALS",
+   "task": "任务三",
+   "ndcg": 0.7896,
+   "recall": null,
+   "mrr": null,
+   "users": 19986,
+   "elapsed": null,
+   "perUserMs": null,
+   "sampled": true,
+   "final": false,
+   "note": "20k 用户抽样；报告记录 5 轮 run 为 0.7710，此处取 10 轮结果"
+  },
+  {
+   "key": "bpr_scratch",
+   "name": "BPR（随机初始化）",
+   "short": "BPR 随机",
+   "task": "任务六",
+   "ndcg": 0.80283,
+   "recall": 0.78404,
+   "mrr": 0.8222,
+   "users": 191007,
+   "elapsed": 6.31,
+   "perUserMs": 0.033,
+   "sampled": false,
+   "final": false,
+   "note": null
+  },
+  {
+   "key": "bpr",
+   "name": "BPR（热启动）",
+   "short": "BPR 热启动",
+   "task": "任务六",
+   "ndcg": 0.85625,
+   "recall": 0.81914,
+   "mrr": 0.88115,
+   "users": 191007,
+   "elapsed": 6.39,
+   "perUserMs": 0.0335,
+   "sampled": false,
+   "final": false,
+   "note": null
+  },
+  {
+   "key": "ranker_full",
+   "name": "LightGBM 集成排序",
+   "short": "集成排序",
+   "task": "任务六",
+   "ndcg": 0.88938,
+   "recall": 0.83011,
+   "mrr": 0.93377,
+   "users": 191007,
+   "elapsed": 61.7,
+   "perUserMs": 0.323,
+   "sampled": false,
+   "final": true,
+   "note": null,
+   "verifiedNdcg": 0.88938
+  }
+ ],
+ "ablation": [
+  {
+   "key": "ranker_full",
+   "name": "完整模型（9 特征）",
+   "ndcg": 0.88938,
+   "recall": 0.83011
+  },
+  {
+   "key": "ranker_no_bpr",
+   "name": "去掉 BPR 分数",
+   "ndcg": 0.84173,
+   "recall": 0.80708
+  },
+  {
+   "key": "ranker_no_genre",
+   "name": "去掉类型亲和度",
+   "ndcg": 0.87269,
+   "recall": 0.82399
+  }
+ ],
+ "featureImportance": [
+  {
+   "feature": "bpr",
+   "label": "BPR 召回分",
+   "gain": 572549.86
+  },
+  {
+   "feature": "item_trend",
+   "label": "条目热度趋势",
+   "gain": 3609.38
+  },
+  {
+   "feature": "user_last_activity",
+   "label": "用户最近活跃",
+   "gain": 2799.34
+  },
+  {
+   "feature": "item_recency",
+   "label": "条目新鲜度",
+   "gain": 1606.94
+  },
+  {
+   "feature": "user_activity",
+   "label": "用户活跃度",
+   "gain": 843.81
+  },
+  {
+   "feature": "item_mean",
+   "label": "条目平均分",
+   "gain": 297.09
+  },
+  {
+   "feature": "genre_affinity",
+   "label": "类型亲和度",
+   "gain": 270.48
+  },
+  {
+   "feature": "pop_log",
+   "label": "热度（对数）",
+   "gain": 0.0
+  },
+  {
+   "feature": "item_bayes",
+   "label": "贝叶斯均分",
+   "gain": 0.0
+  }
+ ],
+ "baseline": 0.73634,
+ "targetNdcg": 0.80997,
+ "tasks": {
+  "als": {
+   "engine": "Spark MLlib ALS",
+   "sparkVersion": "3.5.3",
+   "rows": 2042661,
+   "fitSeconds": 425.6,
+   "scoreSeconds": 28.4,
+   "rank": 64,
+   "iters": 5,
+   "ndcg": 0.77095,
+   "users": 19986
+  },
+  "graph": {
+   "nodes": 43324,
+   "edges": 1305644,
+   "communities": 59,
+   "modularity": 0.3153,
+   "ndcgPopularity": 0.7453,
+   "ndcgPagerank": 0.7451,
+   "ndcgCommunity": 0.7791
+  },
+  "streaming": {
+   "events": 3290968,
+   "elapsed": 41.69,
+   "throughput": 78939.0,
+   "avgUpdateUs": 1.733,
+   "windows": 9678,
+   "consistency": true
+  },
+  "lsh": {
+   "headItems": 3000,
+   "totalItems": 84432,
+   "recallAtK": 0.14771666666666666,
+   "avgCandidates": 23.859333333333332,
+   "exactSeconds": 30.42,
+   "lshSeconds": 420.91,
+   "speedup": 13.837
+  }
+ }
+}

@@ -1,0 +1,1622 @@
+{
+ "11": {
+  "title": "American President, The (1995)",
+  "year": 1995,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ]
+ },
+ "17": {
+  "title": "Sense and Sensibility (1995)",
+  "year": 1995,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "26": {
+  "title": "Othello (1995)",
+  "year": 1995,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "62": {
+  "title": "Mr. Holland's Opus (1995)",
+  "year": 1995,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "86": {
+  "title": "White Squall (1996)",
+  "year": 1996,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ]
+ },
+ "190": {
+  "title": "Safe (1995)",
+  "year": 1995,
+  "genres": [
+   "Thriller"
+  ]
+ },
+ "194": {
+  "title": "Smoke (1995)",
+  "year": 1995,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "260": {
+  "title": "Star Wars: Episode IV - A New Hope (1977)",
+  "year": 1977,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ]
+ },
+ "265": {
+  "title": "Like Water for Chocolate (Como agua para chocolate) (1992)",
+  "year": 1992,
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ]
+ },
+ "293": {
+  "title": "Léon: The Professional (a.k.a. The Professional) (Léon) (1994)",
+  "year": 1994,
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "307": {
+  "title": "Three Colors: Blue (Trois couleurs: Bleu) (1993)",
+  "year": 1993,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "348": {
+  "title": "Bullets Over Broadway (1994)",
+  "year": 1994,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "350": {
+  "title": "Client, The (1994)",
+  "year": 1994,
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ]
+ },
+ "362": {
+  "title": "Jungle Book, The (1994)",
+  "year": 1994,
+  "genres": [
+   "Adventure",
+   "Children",
+   "Romance"
+  ]
+ },
+ "364": {
+  "title": "Lion King, The (1994)",
+  "year": 1994,
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Children",
+   "Drama",
+   "Musical",
+   "IMAX"
+  ]
+ },
+ "367": {
+  "title": "Mask, The (1994)",
+  "year": 1994,
+  "genres": [
+   "Action",
+   "Comedy",
+   "Crime",
+   "Fantasy"
+  ]
+ },
+ "380": {
+  "title": "True Lies (1994)",
+  "year": 1994,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy",
+   "Romance",
+   "Thriller"
+  ]
+ },
+ "431": {
+  "title": "Carlito's Way (1993)",
+  "year": 1993,
+  "genres": [
+   "Crime",
+   "Drama"
+  ]
+ },
+ "468": {
+  "title": "Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)",
+  "year": 1995,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "480": {
+  "title": "Jurassic Park (1993)",
+  "year": 1993,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "Thriller"
+  ]
+ },
+ "509": {
+  "title": "Piano, The (1993)",
+  "year": 1993,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "520": {
+  "title": "Robin Hood: Men in Tights (1993)",
+  "year": 1993,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "531": {
+  "title": "Secret Garden, The (1993)",
+  "year": 1993,
+  "genres": [
+   "Children",
+   "Drama"
+  ]
+ },
+ "534": {
+  "title": "Shadowlands (1993)",
+  "year": 1993,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "541": {
+  "title": "Blade Runner (1982)",
+  "year": 1982,
+  "genres": [
+   "Action",
+   "Sci-Fi",
+   "Thriller"
+  ]
+ },
+ "553": {
+  "title": "Tombstone (1993)",
+  "year": 1993,
+  "genres": [
+   "Action",
+   "Drama",
+   "Western"
+  ]
+ },
+ "588": {
+  "title": "Aladdin (1992)",
+  "year": 1992,
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Children",
+   "Comedy",
+   "Musical"
+  ]
+ },
+ "590": {
+  "title": "Dances with Wolves (1990)",
+  "year": 1990,
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Western"
+  ]
+ },
+ "594": {
+  "title": "Snow White and the Seven Dwarfs (1937)",
+  "year": 1937,
+  "genres": [
+   "Animation",
+   "Children",
+   "Drama",
+   "Fantasy",
+   "Musical"
+  ]
+ },
+ "616": {
+  "title": "Aristocats, The (1970)",
+  "year": 1970,
+  "genres": [
+   "Animation",
+   "Children"
+  ]
+ },
+ "626": {
+  "title": "Thin Line Between Love and Hate, A (1996)",
+  "year": 1996,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "648": {
+  "title": "Mission: Impossible (1996)",
+  "year": 1996,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Mystery",
+   "Thriller"
+  ]
+ },
+ "707": {
+  "title": "Mulholland Falls (1996)",
+  "year": 1996,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "762": {
+  "title": "Striptease (1996)",
+  "year": 1996,
+  "genres": [
+   "Comedy",
+   "Crime"
+  ]
+ },
+ "783": {
+  "title": "Hunchback of Notre Dame, The (1996)",
+  "year": 1996,
+  "genres": [
+   "Animation",
+   "Children",
+   "Drama",
+   "Musical",
+   "Romance"
+  ]
+ },
+ "897": {
+  "title": "For Whom the Bell Tolls (1943)",
+  "year": 1943,
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Romance",
+   "War"
+  ]
+ },
+ "916": {
+  "title": "Roman Holiday (1953)",
+  "year": 1953,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ]
+ },
+ "926": {
+  "title": "All About Eve (1950)",
+  "year": 1950,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "931": {
+  "title": "Spellbound (1945)",
+  "year": 1945,
+  "genres": [
+   "Mystery",
+   "Romance",
+   "Thriller"
+  ]
+ },
+ "938": {
+  "title": "Gigi (1958)",
+  "year": 1958,
+  "genres": [
+   "Musical"
+  ]
+ },
+ "953": {
+  "title": "It's a Wonderful Life (1946)",
+  "year": 1946,
+  "genres": [
+   "Children",
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ]
+ },
+ "1020": {
+  "title": "Cool Runnings (1993)",
+  "year": 1993,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "1034": {
+  "title": "Freeway (1996)",
+  "year": 1996,
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "1036": {
+  "title": "Die Hard (1988)",
+  "year": 1988,
+  "genres": [
+   "Action",
+   "Crime",
+   "Thriller"
+  ]
+ },
+ "1079": {
+  "title": "Fish Called Wanda, A (1988)",
+  "year": 1988,
+  "genres": [
+   "Comedy",
+   "Crime"
+  ]
+ },
+ "1088": {
+  "title": "Dirty Dancing (1987)",
+  "year": 1987,
+  "genres": [
+   "Drama",
+   "Musical",
+   "Romance"
+  ]
+ },
+ "1175": {
+  "title": "Delicatessen (1991)",
+  "year": 1991,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ]
+ },
+ "1186": {
+  "title": "Sex, Lies, and Videotape (1989)",
+  "year": 1989,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "1201": {
+  "title": "Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",
+  "year": 1966,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Western"
+  ]
+ },
+ "1228": {
+  "title": "Raging Bull (1980)",
+  "year": 1980,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "1230": {
+  "title": "Annie Hall (1977)",
+  "year": 1977,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "1258": {
+  "title": "Shining, The (1980)",
+  "year": 1980,
+  "genres": [
+   "Horror"
+  ]
+ },
+ "1265": {
+  "title": "Groundhog Day (1993)",
+  "year": 1993,
+  "genres": [
+   "Comedy",
+   "Fantasy",
+   "Romance"
+  ]
+ },
+ "1270": {
+  "title": "Back to the Future (1985)",
+  "year": 1985,
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Sci-Fi"
+  ]
+ },
+ "1275": {
+  "title": "Highlander (1986)",
+  "year": 1986,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy"
+  ]
+ },
+ "1291": {
+  "title": "Indiana Jones and the Last Crusade (1989)",
+  "year": 1989,
+  "genres": [
+   "Action",
+   "Adventure"
+  ]
+ },
+ "1297": {
+  "title": "Real Genius (1985)",
+  "year": 1985,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "1304": {
+  "title": "Butch Cassidy and the Sundance Kid (1969)",
+  "year": 1969,
+  "genres": [
+   "Action",
+   "Western"
+  ]
+ },
+ "1307": {
+  "title": "When Harry Met Sally... (1989)",
+  "year": 1989,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "1348": {
+  "title": "Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",
+  "year": 1922,
+  "genres": [
+   "Horror"
+  ]
+ },
+ "1357": {
+  "title": "Shine (1996)",
+  "year": 1996,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "1374": {
+  "title": "Star Trek II: The Wrath of Khan (1982)",
+  "year": 1982,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "Thriller"
+  ]
+ },
+ "1380": {
+  "title": "Grease (1978)",
+  "year": 1978,
+  "genres": [
+   "Comedy",
+   "Musical",
+   "Romance"
+  ]
+ },
+ "1391": {
+  "title": "Mars Attacks! (1996)",
+  "year": 1996,
+  "genres": [
+   "Action",
+   "Comedy",
+   "Sci-Fi"
+  ]
+ },
+ "1392": {
+  "title": "Citizen Ruth (1996)",
+  "year": 1996,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "1449": {
+  "title": "Waiting for Guffman (1996)",
+  "year": 1996,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "1518": {
+  "title": "Breakdown (1997)",
+  "year": 1997,
+  "genres": [
+   "Action",
+   "Thriller"
+  ]
+ },
+ "1580": {
+  "title": "Men in Black (a.k.a. MIB) (1997)",
+  "year": 1997,
+  "genres": [
+   "Action",
+   "Comedy",
+   "Sci-Fi"
+  ]
+ },
+ "1587": {
+  "title": "Conan the Barbarian (1982)",
+  "year": 1982,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy"
+  ]
+ },
+ "1594": {
+  "title": "In the Company of Men (1997)",
+  "year": 1997,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "1614": {
+  "title": "In & Out (1997)",
+  "year": 1997,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "1653": {
+  "title": "Gattaca (1997)",
+  "year": 1997,
+  "genres": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ]
+ },
+ "1873": {
+  "title": "Misérables, Les (1998)",
+  "year": 1998,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Romance",
+   "War"
+  ]
+ },
+ "1888": {
+  "title": "Hope Floats (1998)",
+  "year": 1998,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ]
+ },
+ "1907": {
+  "title": "Mulan (1998)",
+  "year": 1998,
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Children",
+   "Comedy",
+   "Drama",
+   "Musical",
+   "Romance"
+  ]
+ },
+ "1952": {
+  "title": "Midnight Cowboy (1969)",
+  "year": 1969,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "1957": {
+  "title": "Chariots of Fire (1981)",
+  "year": 1981,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "1968": {
+  "title": "Breakfast Club, The (1985)",
+  "year": 1985,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "2005": {
+  "title": "Goonies, The (1985)",
+  "year": 1985,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Children",
+   "Comedy",
+   "Fantasy"
+  ]
+ },
+ "2020": {
+  "title": "Dangerous Liaisons (1988)",
+  "year": 1988,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "2022": {
+  "title": "Last Temptation of Christ, The (1988)",
+  "year": 1988,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "2041": {
+  "title": "Condorman (1981)",
+  "year": 1981,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Children",
+   "Comedy"
+  ]
+ },
+ "2096": {
+  "title": "Sleeping Beauty (1959)",
+  "year": 1959,
+  "genres": [
+   "Animation",
+   "Children",
+   "Musical"
+  ]
+ },
+ "2099": {
+  "title": "Song of the South (1946)",
+  "year": 1946,
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Children",
+   "Musical"
+  ]
+ },
+ "2115": {
+  "title": "Indiana Jones and the Temple of Doom (1984)",
+  "year": 1984,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy"
+  ]
+ },
+ "2133": {
+  "title": "Adventures in Babysitting (1987)",
+  "year": 1987,
+  "genres": [
+   "Adventure",
+   "Comedy"
+  ]
+ },
+ "2150": {
+  "title": "Gods Must Be Crazy, The (1980)",
+  "year": 1980,
+  "genres": [
+   "Adventure",
+   "Comedy"
+  ]
+ },
+ "2159": {
+  "title": "Henry: Portrait of a Serial Killer (1986)",
+  "year": 1986,
+  "genres": [
+   "Crime",
+   "Horror",
+   "Thriller"
+  ]
+ },
+ "2208": {
+  "title": "Lady Vanishes, The (1938)",
+  "year": 1938,
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ]
+ },
+ "2282": {
+  "title": "Pecker (1998)",
+  "year": 1998,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "2303": {
+  "title": "Nashville (1975)",
+  "year": 1975,
+  "genres": [
+   "Drama",
+   "Musical"
+  ]
+ },
+ "2313": {
+  "title": "Elephant Man, The (1980)",
+  "year": 1980,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "2329": {
+  "title": "American History X (1998)",
+  "year": 1998,
+  "genres": [
+   "Crime",
+   "Drama"
+  ]
+ },
+ "2353": {
+  "title": "Enemy of the State (1998)",
+  "year": 1998,
+  "genres": [
+   "Action",
+   "Thriller"
+  ]
+ },
+ "2355": {
+  "title": "Bug's Life, A (1998)",
+  "year": 1998,
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Children",
+   "Comedy"
+  ]
+ },
+ "2405": {
+  "title": "Jewel of the Nile, The (1985)",
+  "year": 1985,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "2459": {
+  "title": "Texas Chainsaw Massacre, The (1974)",
+  "year": 1974,
+  "genres": [
+   "Horror"
+  ]
+ },
+ "2485": {
+  "title": "She's All That (1999)",
+  "year": 1999,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "2628": {
+  "title": "Star Wars: Episode I - The Phantom Menace (1999)",
+  "year": 1999,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ]
+ },
+ "2702": {
+  "title": "Summer of Sam (1999)",
+  "year": 1999,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "2706": {
+  "title": "American Pie (1999)",
+  "year": 1999,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "2716": {
+  "title": "Ghostbusters (a.k.a. Ghost Busters) (1984)",
+  "year": 1984,
+  "genres": [
+   "Action",
+   "Comedy",
+   "Sci-Fi"
+  ]
+ },
+ "2718": {
+  "title": "Drop Dead Gorgeous (1999)",
+  "year": 1999,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "2733": {
+  "title": "Vibes (1988)",
+  "year": 1988,
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "2746": {
+  "title": "Little Shop of Horrors (1986)",
+  "year": 1986,
+  "genres": [
+   "Comedy",
+   "Horror",
+   "Musical"
+  ]
+ },
+ "2797": {
+  "title": "Big (1988)",
+  "year": 1988,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ]
+ },
+ "2841": {
+  "title": "Stir of Echoes (1999)",
+  "year": 1999,
+  "genres": [
+   "Horror",
+   "Mystery",
+   "Thriller"
+  ]
+ },
+ "2858": {
+  "title": "American Beauty (1999)",
+  "year": 1999,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "2961": {
+  "title": "Story of Us, The (1999)",
+  "year": 1999,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "2991": {
+  "title": "Live and Let Die (1973)",
+  "year": 1973,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Thriller"
+  ]
+ },
+ "3044": {
+  "title": "Dead Again (1991)",
+  "year": 1991,
+  "genres": [
+   "Mystery",
+   "Romance",
+   "Thriller"
+  ]
+ },
+ "3066": {
+  "title": "Tora! Tora! Tora! (1970)",
+  "year": 1970,
+  "genres": [
+   "Action",
+   "Drama",
+   "War"
+  ]
+ },
+ "3160": {
+  "title": "Magnolia (1999)",
+  "year": 1999,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "3243": {
+  "title": "Encino Man (1992)",
+  "year": 1992,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "3448": {
+  "title": "Good Morning, Vietnam (1987)",
+  "year": 1987,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "War"
+  ]
+ },
+ "3500": {
+  "title": "Mr. Saturday Night (1992)",
+  "year": 1992,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "3512": {
+  "title": "Return to Me (2000)",
+  "year": 2000,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "3527": {
+  "title": "Predator (1987)",
+  "year": 1987,
+  "genres": [
+   "Action",
+   "Sci-Fi",
+   "Thriller"
+  ]
+ },
+ "3554": {
+  "title": "Love and Basketball (2000)",
+  "year": 2000,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "3699": {
+  "title": "Starman (1984)",
+  "year": 1984,
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ]
+ },
+ "3753": {
+  "title": "Patriot, The (2000)",
+  "year": 2000,
+  "genres": [
+   "Action",
+   "Drama",
+   "War"
+  ]
+ },
+ "3897": {
+  "title": "Almost Famous (2000)",
+  "year": 2000,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "3948": {
+  "title": "Meet the Parents (2000)",
+  "year": 2000,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "3994": {
+  "title": "Unbreakable (2000)",
+  "year": 2000,
+  "genres": [
+   "Drama",
+   "Sci-Fi"
+  ]
+ },
+ "4010": {
+  "title": "Brewster's Millions (1985)",
+  "year": 1985,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "4191": {
+  "title": "Alfie (1966)",
+  "year": 1966,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ]
+ },
+ "4211": {
+  "title": "Reversal of Fortune (1990)",
+  "year": 1990,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "4239": {
+  "title": "Blow (2001)",
+  "year": 2001,
+  "genres": [
+   "Crime",
+   "Drama"
+  ]
+ },
+ "4327": {
+  "title": "Magnificent Seven, The (1960)",
+  "year": 1960,
+  "genres": [
+   "Adventure",
+   "Western"
+  ]
+ },
+ "4571": {
+  "title": "Bill & Ted's Excellent Adventure (1989)",
+  "year": 1989,
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Sci-Fi"
+  ]
+ },
+ "4874": {
+  "title": "K-PAX (2001)",
+  "year": 2001,
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Mystery",
+   "Sci-Fi"
+  ]
+ },
+ "4901": {
+  "title": "Spy Game (2001)",
+  "year": 2001,
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "4963": {
+  "title": "Ocean's Eleven (2001)",
+  "year": 2001,
+  "genres": [
+   "Crime",
+   "Thriller"
+  ]
+ },
+ "4995": {
+  "title": "Beautiful Mind, A (2001)",
+  "year": 2001,
+  "genres": [
+   "Drama",
+   "Romance"
+  ]
+ },
+ "5064": {
+  "title": "The Count of Monte Cristo (2002)",
+  "year": 2002,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "5127": {
+  "title": "Dragonfly (2002)",
+  "year": 2002,
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Mystery",
+   "Romance",
+   "Thriller"
+  ]
+ },
+ "5294": {
+  "title": "Frailty (2001)",
+  "year": 2001,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "5299": {
+  "title": "My Big Fat Greek Wedding (2002)",
+  "year": 2002,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ]
+ },
+ "5506": {
+  "title": "Blood Work (2002)",
+  "year": 2002,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ]
+ },
+ "5810": {
+  "title": "8 Mile (2002)",
+  "year": 2002,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "5952": {
+  "title": "Lord of the Rings: The Two Towers, The (2002)",
+  "year": 2002,
+  "genres": [
+   "Adventure",
+   "Fantasy"
+  ]
+ },
+ "6062": {
+  "title": "Lost in La Mancha (2002)",
+  "year": 2002,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "6104": {
+  "title": "Monty Python Live at the Hollywood Bowl (1982)",
+  "year": 1982,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "6183": {
+  "title": "Pillow Talk (1959)",
+  "year": 1959,
+  "genres": [
+   "Comedy",
+   "Musical",
+   "Romance"
+  ]
+ },
+ "6333": {
+  "title": "X2: X-Men United (2003)",
+  "year": 2003,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "Thriller"
+  ]
+ },
+ "6405": {
+  "title": "Treasure Island (1950)",
+  "year": 1950,
+  "genres": [
+   "Adventure",
+   "Children"
+  ]
+ },
+ "6539": {
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+  "year": 2003,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy",
+   "Fantasy"
+  ]
+ },
+ "6614": {
+  "title": "I Love You to Death (1990)",
+  "year": 1990,
+  "genres": [
+   "Comedy",
+   "Crime"
+  ]
+ },
+ "7361": {
+  "title": "Eternal Sunshine of the Spotless Mind (2004)",
+  "year": 2004,
+  "genres": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ]
+ },
+ "7458": {
+  "title": "Troy (2004)",
+  "year": 2004,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama",
+   "War"
+  ]
+ },
+ "8368": {
+  "title": "Harry Potter and the Prisoner of Azkaban (2004)",
+  "year": 2004,
+  "genres": [
+   "Adventure",
+   "Fantasy",
+   "IMAX"
+  ]
+ },
+ "8874": {
+  "title": "Shaun of the Dead (2004)",
+  "year": 2004,
+  "genres": [
+   "Comedy",
+   "Horror"
+  ]
+ },
+ "8961": {
+  "title": "Incredibles, The (2004)",
+  "year": 2004,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Animation",
+   "Children",
+   "Comedy"
+  ]
+ },
+ "27773": {
+  "title": "Old Boy (2003)",
+  "year": 2003,
+  "genres": [
+   "Mystery",
+   "Thriller"
+  ]
+ },
+ "30707": {
+  "title": "Million Dollar Baby (2004)",
+  "year": 2004,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "30749": {
+  "title": "Hotel Rwanda (2004)",
+  "year": 2004,
+  "genres": [
+   "Drama",
+   "War"
+  ]
+ },
+ "33166": {
+  "title": "Crash (2004)",
+  "year": 2004,
+  "genres": [
+   "Crime",
+   "Drama"
+  ]
+ },
+ "33493": {
+  "title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+  "year": 2005,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ]
+ },
+ "33794": {
+  "title": "Batman Begins (2005)",
+  "year": 2005,
+  "genres": [
+   "Action",
+   "Crime",
+   "IMAX"
+  ]
+ },
+ "37382": {
+  "title": "Domino (2005)",
+  "year": 2005,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "45431": {
+  "title": "Over the Hedge (2006)",
+  "year": 2006,
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Children",
+   "Comedy"
+  ]
+ },
+ "49272": {
+  "title": "Casino Royale (2006)",
+  "year": 2006,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Thriller"
+  ]
+ },
+ "50794": {
+  "title": "Smokin' Aces (2006)",
+  "year": 2006,
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "56156": {
+  "title": "Hitman (2007)",
+  "year": 2007,
+  "genres": [
+   "Action",
+   "Crime",
+   "Thriller"
+  ]
+ },
+ "56782": {
+  "title": "There Will Be Blood (2007)",
+  "year": 2007,
+  "genres": [
+   "Drama",
+   "Western"
+  ]
+ },
+ "57528": {
+  "title": "Rambo (Rambo 4) (2008)",
+  "year": 2008,
+  "genres": [
+   "Action",
+   "Drama",
+   "Thriller",
+   "War"
+  ]
+ },
+ "59315": {
+  "title": "Iron Man (2008)",
+  "year": 2008,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ]
+ },
+ "61240": {
+  "title": "Let the Right One In (Låt den rätte komma in) (2008)",
+  "year": 2008,
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror",
+   "Romance"
+  ]
+ },
+ "62394": {
+  "title": "Max Payne (2008)",
+  "year": 2008,
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "63113": {
+  "title": "Quantum of Solace (2008)",
+  "year": 2008,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Thriller"
+  ]
+ },
+ "65261": {
+  "title": "Ponyo (Gake no ue no Ponyo) (2008)",
+  "year": 2008,
+  "genres": [
+   "Adventure",
+   "Animation",
+   "Children",
+   "Fantasy"
+  ]
+ },
+ "68157": {
+  "title": "Inglourious Basterds (2009)",
+  "year": 2009,
+  "genres": [
+   "Action",
+   "Drama",
+   "War"
+  ]
+ },
+ "69122": {
+  "title": "Hangover, The (2009)",
+  "year": 2009,
+  "genres": [
+   "Comedy",
+   "Crime"
+  ]
+ },
+ "72998": {
+  "title": "Avatar (2009)",
+  "year": 2009,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "IMAX"
+  ]
+ },
+ "73323": {
+  "title": "Girl Who Kicked the Hornet's Nest, The (Luftslottet som sprängdes) (2009)",
+  "year": 2009,
+  "genres": [
+   "Action",
+   "Crime",
+   "Mystery"
+  ]
+ },
+ "81834": {
+  "title": "Harry Potter and the Deathly Hallows: Part 1 (2010)",
+  "year": 2010,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy",
+   "IMAX"
+  ]
+ },
+ "89745": {
+  "title": "Avengers, The (2012)",
+  "year": 2012,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "IMAX"
+  ]
+ },
+ "94018": {
+  "title": "Battleship (2012)",
+  "year": 2012,
+  "genres": [
+   "Action",
+   "Sci-Fi",
+   "Thriller",
+   "IMAX"
+  ]
+ },
+ "94985": {
+  "title": "Get the Gringo (2012)",
+  "year": 2012,
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ]
+ },
+ "102445": {
+  "title": "Star Trek Into Darkness (2013)",
+  "year": 2013,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "IMAX"
+  ]
+ },
+ "112852": {
+  "title": "Guardians of the Galaxy (2014)",
+  "year": 2014,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ]
+ },
+ "122886": {
+  "title": "Star Wars: Episode VII - The Force Awakens (2015)",
+  "year": 2015,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy",
+   "Sci-Fi",
+   "IMAX"
+  ]
+ },
+ "122904": {
+  "title": "Deadpool (2016)",
+  "year": 2016,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy",
+   "Sci-Fi"
+  ]
+ },
+ "135861": {
+  "title": "Ted 2 (2015)",
+  "year": 2015,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "142488": {
+  "title": "Spotlight (2015)",
+  "year": 2015,
+  "genres": [
+   "Thriller"
+  ]
+ },
+ "158783": {
+  "title": "The Handmaiden (2016)",
+  "year": 2016,
+  "genres": [
+   "Drama",
+   "Romance",
+   "Thriller"
+  ]
+ },
+ "168252": {
+  "title": "Logan (2017)",
+  "year": 2017,
+  "genres": [
+   "Action",
+   "Sci-Fi"
+  ]
+ }
+}

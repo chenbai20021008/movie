@@ -1,0 +1,3414 @@
+{
+ "source": "sample_top10.csv",
+ "split": "test",
+ "hasFeatures": false,
+ "users": [
+  {
+   "userId": 1,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 307,
+     "score": 0.097248,
+     "title": "Three Colors: Blue (Trois couleurs: Bleu) (1993)",
+     "year": 1993,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 926,
+     "score": 0.097248,
+     "title": "All About Eve (1950)",
+     "year": 1950,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 1952,
+     "score": 0.097248,
+     "title": "Midnight Cowboy (1969)",
+     "year": 1969,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 1228,
+     "score": 0.097248,
+     "title": "Raging Bull (1980)",
+     "year": 1980,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 2313,
+     "score": 0.097248,
+     "title": "Elephant Man, The (1980)",
+     "year": 1980,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 2329,
+     "score": 0.097248,
+     "title": "American History X (1998)",
+     "year": 1998,
+     "genres": [
+      "Crime",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 2020,
+     "score": 0.097248,
+     "title": "Dangerous Liaisons (1988)",
+     "year": 1988,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 1392,
+     "score": 0.087129,
+     "title": "Citizen Ruth (1996)",
+     "year": 1996,
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 190,
+     "score": 0.087129,
+     "title": "Safe (1995)",
+     "year": 1995,
+     "genres": [
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 2282,
+     "score": 0.087129,
+     "title": "Pecker (1998)",
+     "year": 1998,
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 2,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 362,
+     "score": 0.097248,
+     "title": "Jungle Book, The (1994)",
+     "year": 1994,
+     "genres": [
+      "Adventure",
+      "Children",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 594,
+     "score": 0.097248,
+     "title": "Snow White and the Seven Dwarfs (1937)",
+     "year": 1937,
+     "genres": [
+      "Animation",
+      "Children",
+      "Drama",
+      "Fantasy",
+      "Musical"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 616,
+     "score": 0.097248,
+     "title": "Aristocats, The (1970)",
+     "year": 1970,
+     "genres": [
+      "Animation",
+      "Children"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 783,
+     "score": 0.097248,
+     "title": "Hunchback of Notre Dame, The (1996)",
+     "year": 1996,
+     "genres": [
+      "Animation",
+      "Children",
+      "Drama",
+      "Musical",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 520,
+     "score": 0.093832,
+     "title": "Robin Hood: Men in Tights (1993)",
+     "year": 1993,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 916,
+     "score": 0.093832,
+     "title": "Roman Holiday (1953)",
+     "year": 1953,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 3554,
+     "score": 0.091882,
+     "title": "Love and Basketball (2000)",
+     "year": 2000,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 1410,
+     "score": 0.091882,
+     "title": "MovieLens #1410",
+     "year": null,
+     "genres": [],
+     "hasMeta": false,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 5127,
+     "score": 0.084,
+     "title": "Dragonfly (2002)",
+     "year": 2002,
+     "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 897,
+     "score": 0.054868,
+     "title": "For Whom the Bell Tolls (1943)",
+     "year": 1943,
+     "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 3,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 11,
+     "score": 0.097248,
+     "title": "American President, The (1995)",
+     "year": 1995,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 62,
+     "score": 0.097248,
+     "title": "Mr. Holland's Opus (1995)",
+     "year": 1995,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 534,
+     "score": 0.097248,
+     "title": "Shadowlands (1993)",
+     "year": 1993,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 5299,
+     "score": 0.097248,
+     "title": "My Big Fat Greek Wedding (2002)",
+     "year": 2002,
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 4995,
+     "score": 0.097248,
+     "title": "Beautiful Mind, A (2001)",
+     "year": 2001,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 1957,
+     "score": 0.087129,
+     "title": "Chariots of Fire (1981)",
+     "year": 1981,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 1873,
+     "score": 0.087129,
+     "title": "Misérables, Les (1998)",
+     "year": 1998,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Romance",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 26,
+     "score": 0.087129,
+     "title": "Othello (1995)",
+     "year": 1995,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 2353,
+     "score": 0.087129,
+     "title": "Enemy of the State (1998)",
+     "year": 1998,
+     "genres": [
+      "Action",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 2150,
+     "score": 0.087129,
+     "title": "Gods Must Be Crazy, The (1980)",
+     "year": 1980,
+     "genres": [
+      "Adventure",
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 4,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 260,
+     "score": 0.097248,
+     "title": "Star Wars: Episode IV - A New Hope (1977)",
+     "year": 1977,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 1297,
+     "score": 0.056385,
+     "title": "Real Genius (1985)",
+     "year": 1985,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 194,
+     "score": -0.006616,
+     "title": "Smoke (1995)",
+     "year": 1995,
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 431,
+     "score": -0.023132,
+     "title": "Carlito's Way (1993)",
+     "year": 1993,
+     "genres": [
+      "Crime",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 2841,
+     "score": -0.065076,
+     "title": "Stir of Echoes (1999)",
+     "year": 1999,
+     "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 783,
+     "score": -0.065076,
+     "title": "Hunchback of Notre Dame, The (1996)",
+     "year": 1996,
+     "genres": [
+      "Animation",
+      "Children",
+      "Drama",
+      "Musical",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 4211,
+     "score": -0.065076,
+     "title": "Reversal of Fortune (1990)",
+     "year": 1990,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 2041,
+     "score": -0.082744,
+     "title": "Condorman (1981)",
+     "year": 1981,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Children",
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 3375,
+     "score": -0.082744,
+     "title": "MovieLens #3375",
+     "year": null,
+     "genres": [],
+     "hasMeta": false,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 4191,
+     "score": -0.082744,
+     "title": "Alfie (1966)",
+     "year": 1966,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 5,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 480,
+     "score": 0.093832,
+     "title": "Jurassic Park (1993)",
+     "year": 1993,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 364,
+     "score": 0.091882,
+     "title": "Lion King, The (1994)",
+     "year": 1994,
+     "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Drama",
+      "Musical",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 762,
+     "score": 0.074873,
+     "title": "Striptease (1996)",
+     "year": 1996,
+     "genres": [
+      "Comedy",
+      "Crime"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 707,
+     "score": -0.006616,
+     "title": "Mulholland Falls (1996)",
+     "year": 1996,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 1391,
+     "score": -0.023132,
+     "title": "Mars Attacks! (1996)",
+     "year": 1996,
+     "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 1518,
+     "score": -0.023132,
+     "title": "Breakdown (1997)",
+     "year": 1997,
+     "genres": [
+      "Action",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 2005,
+     "score": -0.0795,
+     "title": "Goonies, The (1985)",
+     "year": 1985,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Children",
+      "Comedy",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 57528,
+     "score": -0.0795,
+     "title": "Rambo (Rambo 4) (2008)",
+     "year": 2008,
+     "genres": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 2718,
+     "score": -0.082744,
+     "title": "Drop Dead Gorgeous (1999)",
+     "year": 1999,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 94018,
+     "score": -0.082744,
+     "title": "Battleship (2012)",
+     "year": 2012,
+     "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 6,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 2628,
+     "score": 0.097248,
+     "title": "Star Wars: Episode I - The Phantom Menace (1999)",
+     "year": 1999,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 648,
+     "score": 0.097248,
+     "title": "Mission: Impossible (1996)",
+     "year": 1996,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 1291,
+     "score": 0.097248,
+     "title": "Indiana Jones and the Last Crusade (1989)",
+     "year": 1989,
+     "genres": [
+      "Action",
+      "Adventure"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 590,
+     "score": 0.093832,
+     "title": "Dances with Wolves (1990)",
+     "year": 1990,
+     "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 2115,
+     "score": 0.093832,
+     "title": "Indiana Jones and the Temple of Doom (1984)",
+     "year": 1984,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 6333,
+     "score": 0.093832,
+     "title": "X2: X-Men United (2003)",
+     "year": 2003,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 56156,
+     "score": 0.093832,
+     "title": "Hitman (2007)",
+     "year": 2007,
+     "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 2355,
+     "score": 0.083926,
+     "title": "Bug's Life, A (1998)",
+     "year": 1998,
+     "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 135426,
+     "score": 0.071906,
+     "title": "MovieLens #135426",
+     "year": null,
+     "genres": [],
+     "hasMeta": false,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 33166,
+     "score": 0.062493,
+     "title": "Crash (2004)",
+     "year": 2004,
+     "genres": [
+      "Crime",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 7,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 265,
+     "score": 0.093832,
+     "title": "Like Water for Chocolate (Como agua para chocolate) (1992)",
+     "year": 1992,
+     "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 348,
+     "score": 0.093832,
+     "title": "Bullets Over Broadway (1994)",
+     "year": 1994,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 468,
+     "score": 0.093832,
+     "title": "Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)",
+     "year": 1995,
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 531,
+     "score": 0.093832,
+     "title": "Secret Garden, The (1993)",
+     "year": 1993,
+     "genres": [
+      "Children",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 541,
+     "score": 0.091882,
+     "title": "Blade Runner (1982)",
+     "year": 1982,
+     "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 2020,
+     "score": 0.091882,
+     "title": "Dangerous Liaisons (1988)",
+     "year": 1988,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 2133,
+     "score": 0.084,
+     "title": "Adventures in Babysitting (1987)",
+     "year": 1987,
+     "genres": [
+      "Adventure",
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 1594,
+     "score": 0.066407,
+     "title": "In the Company of Men (1997)",
+     "year": 1997,
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 1587,
+     "score": -0.013647,
+     "title": "Conan the Barbarian (1982)",
+     "year": 1982,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 5506,
+     "score": -0.065076,
+     "title": "Blood Work (2002)",
+     "year": 2002,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 8,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 7361,
+     "score": 0.097248,
+     "title": "Eternal Sunshine of the Spotless Mind (2004)",
+     "year": 2004,
+     "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 27773,
+     "score": 0.097248,
+     "title": "Old Boy (2003)",
+     "year": 2003,
+     "genres": [
+      "Mystery",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 30707,
+     "score": 0.093832,
+     "title": "Million Dollar Baby (2004)",
+     "year": 2004,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 30749,
+     "score": 0.093832,
+     "title": "Hotel Rwanda (2004)",
+     "year": 2004,
+     "genres": [
+      "Drama",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 65261,
+     "score": 0.093832,
+     "title": "Ponyo (Gake no ue no Ponyo) (2008)",
+     "year": 2008,
+     "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 142488,
+     "score": 0.093832,
+     "title": "Spotlight (2015)",
+     "year": 2015,
+     "genres": [
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 48231,
+     "score": -0.025047,
+     "title": "MovieLens #48231",
+     "year": null,
+     "genres": [],
+     "hasMeta": false,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 6062,
+     "score": -0.025047,
+     "title": "Lost in La Mancha (2002)",
+     "year": 2002,
+     "genres": [
+      "Documentary"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 86852,
+     "score": -0.037267,
+     "title": "MovieLens #86852",
+     "year": null,
+     "genres": [],
+     "hasMeta": false,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 37382,
+     "score": -0.037267,
+     "title": "Domino (2005)",
+     "year": 2005,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 9,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 293,
+     "score": 0.097248,
+     "title": "Léon: The Professional (a.k.a. The Professional) (Léon) (1994)",
+     "year": 1994,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 1079,
+     "score": 0.097248,
+     "title": "Fish Called Wanda, A (1988)",
+     "year": 1988,
+     "genres": [
+      "Comedy",
+      "Crime"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 3448,
+     "score": 0.097248,
+     "title": "Good Morning, Vietnam (1987)",
+     "year": 1987,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 1175,
+     "score": 0.097248,
+     "title": "Delicatessen (1991)",
+     "year": 1991,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 1230,
+     "score": 0.097248,
+     "title": "Annie Hall (1977)",
+     "year": 1977,
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 1258,
+     "score": 0.097248,
+     "title": "Shining, The (1980)",
+     "year": 1980,
+     "genres": [
+      "Horror"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 8874,
+     "score": 0.097248,
+     "title": "Shaun of the Dead (2004)",
+     "year": 2004,
+     "genres": [
+      "Comedy",
+      "Horror"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 5294,
+     "score": 0.093832,
+     "title": "Frailty (2001)",
+     "year": 2001,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 1357,
+     "score": 0.093832,
+     "title": "Shine (1996)",
+     "year": 1996,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 1186,
+     "score": 0.093832,
+     "title": "Sex, Lies, and Videotape (1989)",
+     "year": 1989,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 10,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 33493,
+     "score": 0.097248,
+     "title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+     "year": 2005,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 89745,
+     "score": 0.097248,
+     "title": "Avengers, The (2012)",
+     "year": 2012,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 112852,
+     "score": 0.097248,
+     "title": "Guardians of the Galaxy (2014)",
+     "year": 2014,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 122886,
+     "score": 0.097248,
+     "title": "Star Wars: Episode VII - The Force Awakens (2015)",
+     "year": 2015,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 122904,
+     "score": 0.097248,
+     "title": "Deadpool (2016)",
+     "year": 2016,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 168252,
+     "score": 0.087129,
+     "title": "Logan (2017)",
+     "year": 2017,
+     "genres": [
+      "Action",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 1380,
+     "score": 0.083926,
+     "title": "Grease (1978)",
+     "year": 1978,
+     "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 5810,
+     "score": 0.083926,
+     "title": "8 Mile (2002)",
+     "year": 2002,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 142488,
+     "score": 0.076107,
+     "title": "Spotlight (2015)",
+     "year": 2015,
+     "genres": [
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 135861,
+     "score": 0.005741,
+     "title": "Ted 2 (2015)",
+     "year": 2015,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 11,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 86,
+     "score": 0.074873,
+     "title": "White Squall (1996)",
+     "year": 1996,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 1614,
+     "score": -0.023132,
+     "title": "In & Out (1997)",
+     "year": 1997,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 626,
+     "score": -0.065076,
+     "title": "Thin Line Between Love and Hate, A (1996)",
+     "year": 1996,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 1275,
+     "score": -0.082744,
+     "title": "Highlander (1986)",
+     "year": 1986,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 1374,
+     "score": -0.082744,
+     "title": "Star Trek II: The Wrath of Khan (1982)",
+     "year": 1982,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 2099,
+     "score": -0.082744,
+     "title": "Song of the South (1946)",
+     "year": 1946,
+     "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Musical"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 3500,
+     "score": -0.082744,
+     "title": "Mr. Saturday Night (1992)",
+     "year": 1992,
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 3044,
+     "score": -0.082744,
+     "title": "Dead Again (1991)",
+     "year": 1991,
+     "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 2991,
+     "score": -0.082744,
+     "title": "Live and Let Die (1973)",
+     "year": 1973,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 7458,
+     "score": -0.082744,
+     "title": "Troy (2004)",
+     "year": 2004,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 12,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 2858,
+     "score": 0.047829,
+     "title": "American Beauty (1999)",
+     "year": 1999,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 1888,
+     "score": -0.082744,
+     "title": "Hope Floats (1998)",
+     "year": 1998,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 1907,
+     "score": -0.082744,
+     "title": "Mulan (1998)",
+     "year": 1998,
+     "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Drama",
+      "Musical",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 2459,
+     "score": -0.082744,
+     "title": "Texas Chainsaw Massacre, The (1974)",
+     "year": 1974,
+     "genres": [
+      "Horror"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 3243,
+     "score": -0.082744,
+     "title": "Encino Man (1992)",
+     "year": 1992,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 50794,
+     "score": -0.082744,
+     "title": "Smokin' Aces (2006)",
+     "year": 2006,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 1036,
+     "score": -0.093408,
+     "title": "Die Hard (1988)",
+     "year": 1988,
+     "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 1034,
+     "score": -0.093408,
+     "title": "Freeway (1996)",
+     "year": 1996,
+     "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 6614,
+     "score": -0.093408,
+     "title": "I Love You to Death (1990)",
+     "year": 1990,
+     "genres": [
+      "Comedy",
+      "Crime"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 2733,
+     "score": -0.093408,
+     "title": "Vibes (1988)",
+     "year": 1988,
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 13,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 380,
+     "score": 0.097248,
+     "title": "True Lies (1994)",
+     "year": 1994,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Romance",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 953,
+     "score": 0.093832,
+     "title": "It's a Wonderful Life (1946)",
+     "year": 1946,
+     "genres": [
+      "Children",
+      "Drama",
+      "Fantasy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 5952,
+     "score": 0.076107,
+     "title": "Lord of the Rings: The Two Towers, The (2002)",
+     "year": 2002,
+     "genres": [
+      "Adventure",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 2353,
+     "score": 0.075803,
+     "title": "Enemy of the State (1998)",
+     "year": 1998,
+     "genres": [
+      "Action",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 3699,
+     "score": 0.062493,
+     "title": "Starman (1984)",
+     "year": 1984,
+     "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 1088,
+     "score": 0.062493,
+     "title": "Dirty Dancing (1987)",
+     "year": 1987,
+     "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 3512,
+     "score": 0.040175,
+     "title": "Return to Me (2000)",
+     "year": 2000,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 2961,
+     "score": 0.023954,
+     "title": "Story of Us, The (1999)",
+     "year": 1999,
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 2405,
+     "score": 0.022012,
+     "title": "Jewel of the Nile, The (1985)",
+     "year": 1985,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 4571,
+     "score": 0.019712,
+     "title": "Bill & Ted's Excellent Adventure (1989)",
+     "year": 1989,
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 14,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 4010,
+     "score": 0.097248,
+     "title": "Brewster's Millions (1985)",
+     "year": 1985,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 1653,
+     "score": 0.097248,
+     "title": "Gattaca (1997)",
+     "year": 1997,
+     "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 3160,
+     "score": 0.097248,
+     "title": "Magnolia (1999)",
+     "year": 1999,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 2485,
+     "score": 0.097248,
+     "title": "She's All That (1999)",
+     "year": 1999,
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 2159,
+     "score": 0.093832,
+     "title": "Henry: Portrait of a Serial Killer (1986)",
+     "year": 1986,
+     "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 2702,
+     "score": 0.093832,
+     "title": "Summer of Sam (1999)",
+     "year": 1999,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 2208,
+     "score": 0.093832,
+     "title": "Lady Vanishes, The (1938)",
+     "year": 1938,
+     "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 6104,
+     "score": 0.093832,
+     "title": "Monty Python Live at the Hollywood Bowl (1982)",
+     "year": 1982,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 5705,
+     "score": 0.093832,
+     "title": "MovieLens #5705",
+     "year": null,
+     "genres": [],
+     "hasMeta": false,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 6405,
+     "score": 0.093832,
+     "title": "Treasure Island (1950)",
+     "year": 1950,
+     "genres": [
+      "Adventure",
+      "Children"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 15,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 17,
+     "score": 0.097248,
+     "title": "Sense and Sensibility (1995)",
+     "year": 1995,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 1307,
+     "score": 0.097248,
+     "title": "When Harry Met Sally... (1989)",
+     "year": 1989,
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 1968,
+     "score": 0.097248,
+     "title": "Breakfast Club, The (1985)",
+     "year": 1985,
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 3897,
+     "score": 0.097248,
+     "title": "Almost Famous (2000)",
+     "year": 2000,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 509,
+     "score": 0.097248,
+     "title": "Piano, The (1993)",
+     "year": 1993,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 1265,
+     "score": 0.097248,
+     "title": "Groundhog Day (1993)",
+     "year": 1993,
+     "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 3948,
+     "score": 0.093832,
+     "title": "Meet the Parents (2000)",
+     "year": 2000,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 73323,
+     "score": 0.093832,
+     "title": "Girl Who Kicked the Hornet's Nest, The (Luftslottet som sprängdes) (2009)",
+     "year": 2009,
+     "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 81834,
+     "score": 0.083926,
+     "title": "Harry Potter and the Deathly Hallows: Part 1 (2010)",
+     "year": 2010,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 158783,
+     "score": 0.082222,
+     "title": "The Handmaiden (2016)",
+     "year": 2016,
+     "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 16,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 68157,
+     "score": 0.097248,
+     "title": "Inglourious Basterds (2009)",
+     "year": 2009,
+     "genres": [
+      "Action",
+      "Drama",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 72998,
+     "score": 0.097248,
+     "title": "Avatar (2009)",
+     "year": 2009,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 63113,
+     "score": 0.097248,
+     "title": "Quantum of Solace (2008)",
+     "year": 2008,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 1580,
+     "score": 0.087129,
+     "title": "Men in Black (a.k.a. MIB) (1997)",
+     "year": 1997,
+     "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 5064,
+     "score": 0.075803,
+     "title": "The Count of Monte Cristo (2002)",
+     "year": 2002,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 94985,
+     "score": 0.062493,
+     "title": "Get the Gringo (2012)",
+     "year": 2012,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 56782,
+     "score": 0.05206,
+     "title": "There Will Be Blood (2007)",
+     "year": 2007,
+     "genres": [
+      "Drama",
+      "Western"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 62394,
+     "score": 0.040175,
+     "title": "Max Payne (2008)",
+     "year": 2008,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 1275,
+     "score": 0.005741,
+     "title": "Highlander (1986)",
+     "year": 1986,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 1304,
+     "score": -0.034326,
+     "title": "Butch Cassidy and the Sundance Kid (1969)",
+     "year": 1969,
+     "genres": [
+      "Action",
+      "Western"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 17,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 3753,
+     "score": 0.097248,
+     "title": "Patriot, The (2000)",
+     "year": 2000,
+     "genres": [
+      "Action",
+      "Drama",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 3994,
+     "score": 0.097248,
+     "title": "Unbreakable (2000)",
+     "year": 2000,
+     "genres": [
+      "Drama",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 4239,
+     "score": 0.097248,
+     "title": "Blow (2001)",
+     "year": 2001,
+     "genres": [
+      "Crime",
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 4874,
+     "score": 0.097248,
+     "title": "K-PAX (2001)",
+     "year": 2001,
+     "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 4963,
+     "score": 0.097248,
+     "title": "Ocean's Eleven (2001)",
+     "year": 2001,
+     "genres": [
+      "Crime",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 4901,
+     "score": 0.097248,
+     "title": "Spy Game (2001)",
+     "year": 2001,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 2797,
+     "score": 0.097248,
+     "title": "Big (1988)",
+     "year": 1988,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 61240,
+     "score": 0.093832,
+     "title": "Let the Right One In (Låt den rätte komma in) (2008)",
+     "year": 2008,
+     "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 2022,
+     "score": 0.075803,
+     "title": "Last Temptation of Christ, The (1988)",
+     "year": 1988,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 350,
+     "score": 0.062493,
+     "title": "Client, The (1994)",
+     "year": 1994,
+     "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 18,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 1952,
+     "score": 0.087129,
+     "title": "Midnight Cowboy (1969)",
+     "year": 1969,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 8961,
+     "score": 0.087129,
+     "title": "Incredibles, The (2004)",
+     "year": 2004,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 2096,
+     "score": 0.087129,
+     "title": "Sleeping Beauty (1959)",
+     "year": 1959,
+     "genres": [
+      "Animation",
+      "Children",
+      "Musical"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 2746,
+     "score": 0.087129,
+     "title": "Little Shop of Horrors (1986)",
+     "year": 1986,
+     "genres": [
+      "Comedy",
+      "Horror",
+      "Musical"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 69122,
+     "score": 0.062752,
+     "title": "Hangover, The (2009)",
+     "year": 2009,
+     "genres": [
+      "Comedy",
+      "Crime"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 931,
+     "score": 0.062493,
+     "title": "Spellbound (1945)",
+     "year": 1945,
+     "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 59315,
+     "score": 0.05206,
+     "title": "Iron Man (2008)",
+     "year": 2008,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 2303,
+     "score": 0.040175,
+     "title": "Nashville (1975)",
+     "year": 1975,
+     "genres": [
+      "Drama",
+      "Musical"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 1020,
+     "score": 0.024001,
+     "title": "Cool Runnings (1993)",
+     "year": 1993,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 49272,
+     "score": 0.024001,
+     "title": "Casino Royale (2006)",
+     "year": 2006,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 19,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 1201,
+     "score": 0.097248,
+     "title": "Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",
+     "year": 1966,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 1270,
+     "score": 0.097248,
+     "title": "Back to the Future (1985)",
+     "year": 1985,
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 2716,
+     "score": 0.097248,
+     "title": "Ghostbusters (a.k.a. Ghost Busters) (1984)",
+     "year": 1984,
+     "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 1348,
+     "score": 0.093832,
+     "title": "Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",
+     "year": 1922,
+     "genres": [
+      "Horror"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 3527,
+     "score": 0.093832,
+     "title": "Predator (1987)",
+     "year": 1987,
+     "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 4327,
+     "score": 0.093832,
+     "title": "Magnificent Seven, The (1960)",
+     "year": 1960,
+     "genres": [
+      "Adventure",
+      "Western"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 45431,
+     "score": 0.075803,
+     "title": "Over the Hedge (2006)",
+     "year": 2006,
+     "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 3066,
+     "score": 0.062493,
+     "title": "Tora! Tora! Tora! (1970)",
+     "year": 1970,
+     "genres": [
+      "Action",
+      "Drama",
+      "War"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 938,
+     "score": 0.062493,
+     "title": "Gigi (1958)",
+     "year": 1958,
+     "genres": [
+      "Musical"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 6183,
+     "score": 0.040175,
+     "title": "Pillow Talk (1959)",
+     "year": 1959,
+     "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  },
+  {
+   "userId": 20,
+   "items": [
+    {
+     "rank": 1,
+     "movieId": 367,
+     "score": 0.097248,
+     "title": "Mask, The (1994)",
+     "year": 1994,
+     "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 2,
+     "movieId": 588,
+     "score": 0.097248,
+     "title": "Aladdin (1992)",
+     "year": 1992,
+     "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Musical"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 3,
+     "movieId": 3897,
+     "score": 0.097248,
+     "title": "Almost Famous (2000)",
+     "year": 2000,
+     "genres": [
+      "Drama"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 4,
+     "movieId": 6539,
+     "score": 0.097248,
+     "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+     "year": 2003,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 5,
+     "movieId": 8368,
+     "score": 0.097248,
+     "title": "Harry Potter and the Prisoner of Azkaban (2004)",
+     "year": 2004,
+     "genres": [
+      "Adventure",
+      "Fantasy",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 6,
+     "movieId": 33794,
+     "score": 0.097248,
+     "title": "Batman Begins (2005)",
+     "year": 2005,
+     "genres": [
+      "Action",
+      "Crime",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 7,
+     "movieId": 2706,
+     "score": 0.097248,
+     "title": "American Pie (1999)",
+     "year": 1999,
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 8,
+     "movieId": 553,
+     "score": 0.097248,
+     "title": "Tombstone (1993)",
+     "year": 1993,
+     "genres": [
+      "Action",
+      "Drama",
+      "Western"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 9,
+     "movieId": 102445,
+     "score": 0.097248,
+     "title": "Star Trek Into Darkness (2013)",
+     "year": 2013,
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "IMAX"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    },
+    {
+     "rank": 10,
+     "movieId": 1449,
+     "score": 0.075803,
+     "title": "Waiting for Guffman (1996)",
+     "year": 1996,
+     "genres": [
+      "Comedy"
+     ],
+     "hasMeta": true,
+     "bpr": null,
+     "genreAffinity": null,
+     "popLog": null,
+     "itemMean": null
+    }
+   ]
+  }
+ ]
+}

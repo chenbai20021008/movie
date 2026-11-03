@@ -1,0 +1,12 @@
+{
+ "generatedAt": "2026-11-02 21:44:27",
+ "predFile": "sample_top10.csv",
+ "userCount": 20,
+ "topK": 10,
+ "movieMetaCount": 9742,
+ "hasFeatures": false,
+ "defaultUser": 4,
+ "model": "ranker_full（LightGBM LambdaRank，9 特征）",
+ "dataset": "MovieLens 32M",
+ "candidatesPerUser": 101
+}

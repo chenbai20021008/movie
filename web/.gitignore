@@ -1,0 +1,12 @@
+# 依赖与构建产物
+node_modules/
+dist/
+
+# 本地环境变量（联调时才创建）
+.env.local
+.env.*.local
+
+# 日志与缓存
+*.log
+.DS_Store
+.vite/
